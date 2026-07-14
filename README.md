@@ -17,7 +17,7 @@ This document describes the structure and key projection assumptions (drivers) o
 ## 2. Model Structure
 An integrated three-statement financial model was implemented, structured through logical Schedules and driver-based to project future performance based on historical trends, efficiency metrics, regulatory parameters, and normalization adjustments:
 
-* **Schedules:** Contains the operational (Net Sales, Cost of Products Sold, OpEx, Net Working Capital), capital and financing (CapEx, D&A & PP&E, Debt & Interest, Tax Rate), and accounting reconciliation (Retained Earnings, Other Cash Flow Items, Restricted Cash) modules.
+* **Schedules:** Contains the operational (Net Sales, Cost of Products Sold, OpEx, Net Working Capital), capital, financing and tax (CapEx, D&A & PP&E, Debt & Interest, Tax Rate), and accounting reconciliation (Retained Earnings, Other Cash Flow Items, Restricted Cash) modules.
 * **Income Statement:** Projects profitability (from Net Sales to Net Income) by consolidating the impacts of the operational and financial schedules.
 * **Balance Sheet:** Reflects the financial position (assets, liabilities, and equity) integrating a dynamic balancing control (Balance Check).
 * **Cash Flow Statement:** Reconciles net income with actual cash generation using the indirect method, isolating non-cash items and capital requirements.
