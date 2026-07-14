@@ -17,7 +17,7 @@ Este documento describe la estructura y los supuestos clave de proyección (driv
 ## 2. Estructura del Modelo
 Se implementó un modelo financiero integrado de tres estados, estructurado mediante *Schedules* lógicos y basado en inductores (*driver-based*) para proyectar el desempeño futuro a partir de tendencias históricas, métricas de eficiencia, parámetros regulatorios y ajustes de normalización:
 
-* **Schedules:** Contiene los módulos operativos (Net Sales, Cost of Products Sold, OpEx, Net Working Capital), de capital y financiamiento (CapEx, D&A & PP&E, Debt & Interest, Tax Rate), y de conciliación contable (Retained Earnings, Other Cash Flow Items, Restricted Cash). 
+* **Schedules:** Contiene los módulos operativos (Net Sales, Cost of Products Sold, OpEx, Net Working Capital), de capital, financiamiento e impuestos (CapEx, D&A & PP&E, Debt & Interest, Tax Rate), y de conciliación contable (Retained Earnings, Other Cash Flow Items, Restricted Cash). 
 * **Income Statement:** Proyecta la rentabilidad (desde Net Sales hasta Net Income) consolidando los impactos de los schedules operativos y financieros.
 * **Balance Sheet:** Refleja la posición financiera (activos, pasivos y patrimonio) integrando un control de cuadre dinámico (Balance Check).
 * **Cash Flow Statement:** Concilia la utilidad neta con la generación real de caja mediante el método indirecto, aislando partidas no monetarias y requerimientos de capital.
