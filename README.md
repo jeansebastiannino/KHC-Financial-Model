@@ -2,7 +2,7 @@
 *Read this in [Spanish](KHC_Financial_Model_2026E-2030E_README_ES.md)*
 
 ## 1. Introduction and Scope
-This document describes the structure and key projection assumptions (drivers) of the three-statement financial model for The Kraft Heinz Company (KHC). This model was developed in Excel with AI technical support, using the [Annual Report Form 10-K 2025](KHC_Annual_Report_10K_2025.pdf) submitted to the SEC as the single source of historical data for the 2023A-2025A period. Its purpose is to project the company's financial statements for five years (2026E-2030E), complying with financial standards and ensuring a perfectly balanced balance sheet.
+This document describes the structure, key projection assumptions (drivers) and main insights of the three-statement financial model for The Kraft Heinz Company (KHC). This model was developed in Excel with AI technical support, using the [Annual Report Form 10-K 2025](KHC_Annual_Report_10K_2025.pdf) submitted to the SEC as the single source of historical data for the 2023A-2025A period. Its purpose is to project the company's financial statements for five years (2026E-2030E), complying with financial standards and ensuring a perfectly balanced balance sheet.
 
 [📥 **Download the Financial Model in Excel**](https://github.com/jeansebastiannino/KHC-Financial-Model/raw/refs/heads/main/KHC_Integrated_Financial_Model_2026E-2030E.xlsx)
 
@@ -34,6 +34,13 @@ An integrated three-statement financial model was implemented, structured throug
 * **Retained Earnings:** The projected balance in the roll-forward directly feeds the retained earnings on the Balance Sheet. Declared common stock dividends come from the historicals provided by the company in the consolidated statement of equity (p. 54 of the 10-K).
 * **Other Cash Flow Items:** Secondary accounts were grouped as adjustments (historical plugs) in the historical years. Going forward, they were projected at zero, purifying the projected flow from atypical or non-operational items.
 * **Restricted Cash:** The 2025A base year presented a $329M mismatch between the final balance of the Cash Flow Statement and the liquid cash of the Balance Sheet. This difference was identified as restricted cash resulting from a consolidated remaining balance of funds for the payment of employee medical benefits through trusts. This balance was recorded at the end of the fiscal year in other current (164M) and non-current (165M) assets within the consolidated financial statements (pp. 57 and 88 of the 10-K). To integrate the model, this concept was incorporated as a constant (flat) schedule from 2026E and was subtracted directly from the final flow balance, absorbing the mismatch and ensuring an exact balance check.
+
+## 4. Base Case Insights (2026E-2030E)
+
+* **Top-Line & Profitability:** As a result of the flat projection in North America and steady international growth, net sales reach $25,220M by 2030, reflecting a highly conservative Compound Annual Growth Rate (CAGR) of 0.22%. This top-line stabilization, combined with strategically anchored COGS, successfully consolidates a constant gross margin of 33.31%, effectively mitigating the impact of inflationary volatility recorded in prior fiscal years.
+* **Operational Efficiency & Liquidity:** Disciplined maintenance of the OpEx structure (14.72%) generates strong operating leverage, securing the operating margin at 18.59%. Simultaneously, the stabilization of the cash conversion cycle (anchored to historical DSO, DIO, and DPO metrics) optimizes short-term liquidity retention. This operational efficiency allows cash and cash equivalents to significantly scale, growing from $2,615M in 2025A to a projected $7,694M by year-end 2030E.
+* **Capital Allocation & Free Cash Flow:** The model demonstrates the company's ability to organically fund its capital expenditure requirements. With maintenance CapEx stabilized at a historical average of 3.66% of sales (approx. $923M annually), capital efficiency unlocks a robust and recurring Free Cash Flow (FCF), which amounts to $2,945M in the final projection year.
+* **Structural Balance Sheet Health:** Assuming a full refinancing (*roll-over*) scenario that keeps gross debt steady at $21,219M, the consistent generation of net income continuously strengthens the company's equity position. Retained earnings drive Total Equity from $41,777M in 2025A to $46,821M in 2030E, progressively improving the company's long-term solvency and leverage ratios over the projected period.
 
 ---
 
