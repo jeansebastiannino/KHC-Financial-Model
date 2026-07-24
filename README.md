@@ -2,7 +2,7 @@
 *Read this in [Spanish](KHC_Financial_Model_2026E-2030E_README_ES.md)*
 
 ## 1. Introduction and Scope
-This document describes the structure, key projection assumptions (drivers) and main insights of the three-statement financial model for The Kraft Heinz Company (KHC). This model was developed in Excel with AI technical support, using the [Annual Report Form 10-K 2025](KHC_Annual_Report_10K_2025.pdf) submitted to the SEC as the single source of historical data for the 2023A-2025A period. Its purpose is to project the company's financial statements for five years (2026E-2030E), complying with financial standards and ensuring a perfectly balanced balance sheet.
+This document describes the structure, key projection assumptions (drivers), and main insights of the three-statement financial model for The Kraft Heinz Company (KHC). This model was developed in Excel with AI technical support, using the [Annual Report Form 10-K 2025](KHC_Annual_Report_10K_2025.pdf) submitted to the SEC as the single source of historical data for the 2023A-2025A period. Its purpose is to project the company's financial statements for five years (2026E-2030E), complying with financial standards and ensuring a perfectly balanced balance sheet.
 
 [📥 **Download the Financial Model in Excel**](https://github.com/jeansebastiannino/KHC-Financial-Model/raw/refs/heads/main/KHC_Integrated_Financial_Model_2026E-2030E.xlsx)
 
